@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "products": {
+    "JVRobux": {
+      "enabled": true,
+      "universes": {
+        "10204564081": {
+          "enabled": true,
+          "customer": "asianberrie",
+          "expiresAt": 0
+        }
+      }
+    }
+  }
+}
