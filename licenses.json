@@ -5,37 +5,82 @@
 "JVRobux": {
 "enabled": true,
 
-
+```
   "licenses": {
     "Universe": {
       "enabled": true,
+
       "ids": [
         10204564081
       ],
+
       "expiresAt": 0,
       "note": "Lifetime universe licenses"
     },
 
     "User": {
       "enabled": true,
+
       "ids": [
         27482704
       ],
+
       "expiresAt": 0,
       "note": "Users licensed for all personally owned experiences"
     },
 
     "Community": {
       "enabled": true,
+
       "ids": [
         1028977312
       ],
+
+      "expiresAt": 0,
+      "note": "Communities licensed for all community-owned experiences"
+    }
+  }
+},
+
+"JVCustomInventory": {
+  "enabled": true,
+
+  "licenses": {
+    "Universe": {
+      "enabled": true,
+
+      "ids": [
+        10204564081
+      ],
+
+      "expiresAt": 0,
+      "note": "Lifetime universe licenses"
+    },
+
+    "User": {
+      "enabled": true,
+
+      "ids": [
+        27482704
+      ],
+
+      "expiresAt": 0,
+      "note": "Users licensed for all personally owned experiences"
+    },
+
+    "Community": {
+      "enabled": true,
+
+      "ids": [
+        1028977312
+      ],
+
       "expiresAt": 0,
       "note": "Communities licensed for all community-owned experiences"
     }
   }
 }
-
+```
 
 }
 }
