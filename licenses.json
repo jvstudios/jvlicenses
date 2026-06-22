@@ -5,7 +5,6 @@
 "JVRobux": {
 "enabled": true,
 
-```
   "licenses": {
     "Universe": {
       "enabled": true,
@@ -80,7 +79,6 @@
     }
   }
 }
-```
 
 }
 }
