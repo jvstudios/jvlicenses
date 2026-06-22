@@ -1,15 +1,41 @@
 {
-  "schemaVersion": 1,
-  "products": {
-    "JVRobux": {
+"schemaVersion": 1,
+
+"products": {
+"JVRobux": {
+"enabled": true,
+
+
+  "licenses": {
+    "Universe": {
       "enabled": true,
-      "universes": {
-        "10204564081": {
-          "enabled": true,
-          "customer": "asianberrie",
-          "expiresAt": 0
-        }
-      }
+      "ids": [
+        10204564081
+      ],
+      "expiresAt": 0,
+      "note": "Lifetime universe licenses"
+    },
+
+    "User": {
+      "enabled": true,
+      "ids": [
+        27482704
+      ],
+      "expiresAt": 0,
+      "note": "Users licensed for all personally owned experiences"
+    },
+
+    "Community": {
+      "enabled": true,
+      "ids": [
+        1028977312
+      ],
+      "expiresAt": 0,
+      "note": "Communities licensed for all community-owned experiences"
     }
   }
+}
+
+
+}
 }
