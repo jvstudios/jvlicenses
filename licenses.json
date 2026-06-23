@@ -73,7 +73,6 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10204564081,
             3991026635
           ],
           "expiresAt": 0,
