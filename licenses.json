@@ -1,96 +1,98 @@
 {
-"schemaVersion": 1,
-
-"products": {
-"JVRobux": {
-"enabled": true,
-
-  "licenses": {
-    "Universe": {
+  "schemaVersion": 1,
+  "products": {
+    "JVRobux": {
       "enabled": true,
-
-      "ids": [
-        10204564081,
-        10375423147,
-        10375748656,
-        10236657438
-      ],
-
-      "expiresAt": 0,
-      "note": "Lifetime universe licenses"
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10204564081,
+            10375423147,
+            10375748656,
+            10236657438
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all community-owned experiences"
+        }
+      }
     },
-
-    "User": {
+    "JVCustomInventory": {
       "enabled": true,
-
-      "ids": [
-        
-      ],
-
-      "expiresAt": 0,
-      "note": "Users licensed for all personally owned experiences"
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10204564081,
+            9996498548,
+            9005717134,
+            10053038571,
+            10082998126,
+            10357475860,
+            10175764778,
+            10210441116,
+            10052585261,
+            9930686179
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [
+            629030
+          ],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [
+            153687743
+          ],
+          "expiresAt": 0,
+          "note": "Communities licensed for all community-owned experiences"
+        }
+      }
     },
-
-    "Community": {
+    "JVMusicPro": {
       "enabled": true,
-
-      "ids": [
-        
-      ],
-
-      "expiresAt": 0,
-      "note": "Communities licensed for all community-owned experiences"
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10380088659,
+            10204564081,
+            3991026635
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVMusicPro / JV 24/7 Music System"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all community-owned experiences"
+        }
+      }
     }
   }
-},
-
-"JVCustomInventory": {
-  "enabled": true,
-
-  "licenses": {
-    "Universe": {
-      "enabled": true,
-
-      "ids": [
-        10204564081,
-        9996498548,
-        9005717134,
-        10053038571,
-        10082998126,
-        10357475860,
-        10175764778,
-        10210441116,
-        10052585261,
-        9930686179
-      ],
-
-      "expiresAt": 0,
-      "note": "Lifetime universe licenses"
-    },
-
-    "User": {
-      "enabled": true,
-
-      "ids": [
-        629030
-      ],
-
-      "expiresAt": 0,
-      "note": "Users licensed for all personally owned experiences"
-    },
-
-    "Community": {
-      "enabled": true,
-
-      "ids": [
-        153687743
-      ],
-
-      "expiresAt": 0,
-      "note": "Communities licensed for all community-owned experiences"
-    }
-  }
-}
-
-}
 }
