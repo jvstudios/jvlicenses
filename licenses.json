@@ -105,7 +105,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10204564081
+            10204564081,
+            10400129071
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JV Lumens"
