@@ -70,6 +70,33 @@
         }
       }
     },
+    "JVMotion": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10204564081
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVMotion System"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [
+          ],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVMotion experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [
+          ],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVMotion community-owned experiences"
+        }
+      }
+    },
     "JVMusicPro": {
       "enabled": true,
       "licenses": {
