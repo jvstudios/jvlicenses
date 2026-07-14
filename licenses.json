@@ -123,7 +123,8 @@
         "Community": {
           "enabled": true,
           "ids": [
-            1028977312
+            1028977312,
+            1010522879
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all community-owned experiences"
