@@ -223,6 +223,32 @@
           "note": "Communities licensed for all JVClubKit community-owned experiences"
         }
       }
+    },
+
+    "JV Asmodeous Club Kit": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10757888686
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JV Asmodeous Club Kit"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JV Asmodeous Club Kit experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JV Asmodeous Club Kit community-owned experiences"
+        }
+      }
     }
   }
 }
