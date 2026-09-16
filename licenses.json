@@ -130,7 +130,9 @@
         },
         "User": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            134639111
+          ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned experiences"
         },
