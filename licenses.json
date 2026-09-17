@@ -155,7 +155,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10766108158
+            1076610815800,
+            9606540112
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVMusicV2"
