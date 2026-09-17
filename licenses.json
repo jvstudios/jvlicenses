@@ -149,6 +149,32 @@
       }
     },
 
+    "JVMusicV2": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10766108158
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVMusicV2"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVMusicV2 experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVMusicV2 community-owned experiences"
+        }
+      }
+    },
+
     "JVLumens": {
       "enabled": true,
       "licenses": {
