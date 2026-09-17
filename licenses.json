@@ -63,7 +63,8 @@
         "User": {
           "enabled": true,
           "ids": [
-            629030
+            629030,
+            11069900522
           ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned experiences"
