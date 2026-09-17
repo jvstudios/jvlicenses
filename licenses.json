@@ -132,7 +132,7 @@
         "User": {
           "enabled": true,
           "ids": [
-            13463911132122
+            134639111
           ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned experiences"
@@ -141,8 +141,7 @@
           "enabled": true,
           "ids": [
             1028977312,
-            1010522879,
-            343058686
+            1010522879
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all community-owned experiences"
