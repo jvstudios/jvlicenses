@@ -34,7 +34,6 @@
         }
       }
     },
-
     "JVCustomInventory": {
       "enabled": true,
       "licenses": {
@@ -82,7 +81,6 @@
         }
       }
     },
-
     "JVMotion": {
       "enabled": true,
       "licenses": {
@@ -108,7 +106,6 @@
         }
       }
     },
-
     "JVMusicPro": {
       "enabled": true,
       "licenses": {
@@ -149,7 +146,6 @@
         }
       }
     },
-
     "JVMusicV2": {
       "enabled": true,
       "licenses": {
@@ -176,7 +172,31 @@
         }
       }
     },
-
+    "JVRoulette": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10766814379
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVRoulette"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVRoulette experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVRoulette community-owned experiences"
+        }
+      }
+    },
     "JVLumens": {
       "enabled": true,
       "licenses": {
@@ -207,7 +227,6 @@
         }
       }
     },
-
     "JVTimeLeaderboard": {
       "enabled": true,
       "licenses": {
@@ -235,7 +254,6 @@
         }
       }
     },
-
     "JVClubKit": {
       "enabled": true,
       "licenses": {
@@ -261,7 +279,6 @@
         }
       }
     },
-
     "JV Asmodeous Club Kit": {
       "enabled": true,
       "licenses": {
