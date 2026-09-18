@@ -35,6 +35,33 @@
         }
       }
     },
+    "JVUltra": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10383758035
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVUltra"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVUltra experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [
+            10289773122121
+          ],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVUltra community-owned experiences"
+        }
+      }
+    },
     "JVCustomInventory": {
       "enabled": true,
       "licenses": {
