@@ -14,7 +14,7 @@
             9645381674,
             10304666016,
             8536442066,
-            10766897089
+            10767048997
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses"
@@ -41,7 +41,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10383758035
+            10383758035,
+            10767048997
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVUltra"
