@@ -318,7 +318,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10587716809
+            10587716809,
+            10766304489
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVClubKit"
