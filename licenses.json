@@ -391,6 +391,31 @@
           "note": "Communities licensed for all JVPlayerList community-owned experiences"
         }
       }
+    },
+    "JVBilliardTable": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10767888807
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVBilliardTable"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVBilliardTable experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVBilliardTable community-owned experiences"
+        }
+      }
     }
   }
 }
