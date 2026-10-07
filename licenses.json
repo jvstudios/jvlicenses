@@ -18,7 +18,8 @@
             10383758035,
             10767115803,
             10767871705,
-            10768443839
+            10768443839,
+            10766531639
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses"
@@ -122,7 +123,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10204564081
+            10204564081,
+            10766531639
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVMotion System"
@@ -375,7 +377,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10768809460
+            10768809460,
+            10766531639
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVPlayerList"
