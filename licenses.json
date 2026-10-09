@@ -421,6 +421,31 @@
           "note": "Communities licensed for all JVBilliardTable community-owned experiences"
         }
       }
+    },
+    "JVCinema": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10768926354
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVCinema"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVCinema experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVCinema community-owned experiences"
+        }
+      }
     }
   }
 }
