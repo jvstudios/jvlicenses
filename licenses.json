@@ -429,7 +429,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10768926354
+            10768926354,
+            10770106322
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVCinema"
