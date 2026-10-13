@@ -450,6 +450,31 @@
           "note": "Communities licensed for all JVCinema community-owned experiences"
         }
       }
+    },
+    "JVAnnounce": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10770626006
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVAnnounce"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVAnnounce experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVAnnounce community-owned experiences"
+        }
+      }
     }
   }
 }
