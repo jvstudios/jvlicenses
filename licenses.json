@@ -436,15 +436,16 @@
           "ids": [
             10768926354,
             10770106322,
-            10600681992,
-            9705884537
+            10600681992
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVCinema"
         },
         "User": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            9705884537
+          ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned JVCinema experiences"
         },
