@@ -451,7 +451,9 @@
         },
         "Community": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            1010522879
+          ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVCinema community-owned experiences"
         }
