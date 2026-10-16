@@ -20,7 +20,8 @@
             10767871705,
             10768443839,
             10766531639,
-            10600681992
+            10600681992,
+            10770736030
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses"
@@ -126,7 +127,8 @@
           "ids": [
             10204564081,
             10766531639,
-            10767918807
+            10767918807,
+            10770736030
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVMotion System"
@@ -168,7 +170,8 @@
             10766440713,
             10766930286,
             10600681992,
-            10769390950
+            10769390950,
+            10770736030
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVMusicPro / JV 24/7 Music System"
@@ -384,7 +387,8 @@
           "enabled": true,
           "ids": [
             10768809460,
-            10766531639
+            10766531639,
+            10770736030
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVPlayerList"
