@@ -407,7 +407,9 @@
         },
         "Community": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            689896927
+          ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVPlayerList community-owned experiences"
         }
