@@ -524,6 +524,31 @@
           "note": "Communities licensed for all JVSettings community-owned experiences"
         }
       }
+    },
+    "JVServerList": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10771984962
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVServerList"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVServerList experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVServerList community-owned experiences"
+        }
+      }
     }
   }
 }
