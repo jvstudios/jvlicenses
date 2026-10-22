@@ -553,6 +553,31 @@
           "note": "Communities licensed for all JVServerList community-owned experiences"
         }
       }
+    },
+    "JVParty": {
+      "enabled": true,
+      "licenses": {
+        "Universe": {
+          "enabled": true,
+          "ids": [
+            10772392276
+          ],
+          "expiresAt": 0,
+          "note": "Lifetime universe licenses for JVParty"
+        },
+        "User": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Users licensed for all personally owned JVParty experiences"
+        },
+        "Community": {
+          "enabled": true,
+          "ids": [],
+          "expiresAt": 0,
+          "note": "Communities licensed for all JVParty community-owned experiences"
+        }
+      }
     }
   }
 }
