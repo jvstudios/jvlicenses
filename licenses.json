@@ -494,7 +494,9 @@
         },
         "Community": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            842574068
+          ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVAnnounce community-owned experiences"
         }
