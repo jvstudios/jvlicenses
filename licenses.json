@@ -562,7 +562,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10772392276
+            10772392276,
+            10516397531
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVParty"
