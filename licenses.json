@@ -35,7 +35,8 @@
         "Community": {
           "enabled": true,
           "ids": [
-            1028977312
+            1028977312,
+            460107970
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all community-owned experiences"
@@ -92,7 +93,8 @@
             9838545222,
             10587716809,
             10669456292,
-            10765589103
+            10765589103,
+            95570135616372
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses"
@@ -295,7 +297,9 @@
         },
         "User": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            134639111
+          ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned experiences"
         },
@@ -413,7 +417,8 @@
           "enabled": true,
           "ids": [
             689896927,
-            344082768
+            344082768,
+            460107970
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVPlayerList community-owned experiences"
@@ -525,7 +530,8 @@
           "enabled": true,
           "ids": [
             9076646524,
-            8910851218
+            8910851218,
+            134639111
           ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned JVSettings experiences"
