@@ -243,7 +243,9 @@
         },
         "Community": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            460107970
+          ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVMusicV2 community-owned experiences"
         }
