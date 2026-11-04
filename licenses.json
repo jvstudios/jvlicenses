@@ -147,7 +147,8 @@
         "Community": {
           "enabled": true,
           "ids": [
-            1003594592
+            1003594592,
+            460107970
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVMotion community-owned experiences"
@@ -511,7 +512,8 @@
         "Community": {
           "enabled": true,
           "ids": [
-            842574068
+            842574068,
+            460107970
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVAnnounce community-owned experiences"
