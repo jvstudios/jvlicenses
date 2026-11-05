@@ -262,7 +262,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10766814379
+            10766814379,
+            10516397531
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVRoulette"
