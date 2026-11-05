@@ -295,7 +295,8 @@
             10400129071,
             10766782203,
             10774412762,
-            10774412762
+            10774412762,
+            10516397531
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JV Lumens"
@@ -467,7 +468,8 @@
           "ids": [
             10768926354,
             10600681992,
-            10771239174
+            10771239174,
+            10516397531
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVCinema"
@@ -497,7 +499,8 @@
         "Universe": {
           "enabled": true,
           "ids": [
-            10770626006
+            10770626006,
+            10516397531
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVAnnounce"
@@ -584,7 +587,7 @@
           "enabled": true,
           "ids": [
             10772392276,
-            10516397531
+            10516397531,
           ],
           "expiresAt": 0,
           "note": "Lifetime universe licenses for JVParty"
