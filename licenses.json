@@ -185,7 +185,8 @@
           "ids": [
             134639111,
             8958396643,
-            8911177631
+            8911177631,
+            9705884537
           ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned experiences"
@@ -305,7 +306,8 @@
         "User": {
           "enabled": true,
           "ids": [
-            134639111
+            134639111,
+            9705884537
           ],
           "expiresAt": 0,
           "note": "Users licensed for all personally owned experiences"
