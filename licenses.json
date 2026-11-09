@@ -37,7 +37,8 @@
           "enabled": true,
           "ids": [
             1028977312,
-            460107970
+            460107970,
+            512764924
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all community-owned experiences"
@@ -196,7 +197,8 @@
           "ids": [
             1028977312,
             1010522879,
-            653133642
+            653133642,
+            512764924
           ],
           "expiresAt": 0,
           "note": "Communities licensed for all community-owned experiences"
