@@ -374,7 +374,9 @@
         },
         "Community": {
           "enabled": true,
-          "ids": [],
+          "ids": [
+            34879728
+          ],
           "expiresAt": 0,
           "note": "Communities licensed for all JVClubKit community-owned experiences"
         }
